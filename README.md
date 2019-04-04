@@ -1,4 +1,4 @@
-# CMN_NM4239
+# CNM_NM4239
 
 
 Using R for Data Journalism
